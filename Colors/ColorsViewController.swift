@@ -31,6 +31,7 @@ class ColorsViewController: UIViewController, UITableViewDelegate, UITableViewDa
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+        //test comment
     }
     
     func numberOfSections(in tableView: UITableView) -> Int {
